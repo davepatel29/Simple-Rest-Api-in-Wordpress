@@ -1,4 +1,4 @@
-# Simple Rest Api in Wordpress
+# Simple Rest Api With Access token in Wordpress
 Simple Rest Api in Wordpress
 
 # Installation
@@ -16,3 +16,4 @@ Activate the plugin through the ‘Plugins’ screen in WordPress
 # wpsisapi/v1/register
 
 Any Support : [Dave Patel](mailto:dave.dwis@gmail.com)
+Skype : dave.dwis
