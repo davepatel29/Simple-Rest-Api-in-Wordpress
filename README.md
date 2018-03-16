@@ -8,7 +8,7 @@ Upload the plugin files to the `/wp-content/plugins/wp-rest-api directory, or in
 
 Activate the plugin through the ‘Plugins’ screen in WordPress
 
-# Use Rest api :
+# Use Rest Api :
 
 # wpsisapi/v1/login
 # wpsisapi/v1/logout
