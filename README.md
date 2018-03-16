@@ -16,5 +16,5 @@ Activate the plugin through the ‘Plugins’ screen in WordPress
 * wpsisapi/v1/register
 
 # Contact #
-* Any Support : [Dave Patel](mailto:dave.dwis@gmail.com)
+* [Dave Patel](mailto:dave.dwis@gmail.com)
 * Skype : dave.dwis
