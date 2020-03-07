@@ -19,4 +19,4 @@ Activate the plugin through the ‘Plugins’ screen in WordPress
 * [Dave Patel](mailto:dave.dwis@gmail.com)
 * Skype : dave.dwis
 * [Digital Web Infosoft](http://digitalwebinfosoft.com)
-* [SuperCodders Technologies Pvt LTD](http://supercodders.com)
+* [SmartCodders Technologies Pvt LTD](http://smartcodders.com)
