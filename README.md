@@ -15,8 +15,4 @@ Activate the plugin through the ‘Plugins’ screen in WordPress
 * wpsisapi/v1/forgotpassword
 * wpsisapi/v1/register
 
-# Contact #
-* [Dave Patel](mailto:dave.dwis@gmail.com)
-* Skype : dave.dwis
-* [Digital Web Infosoft](http://digitalwebinfosoft.com)
-* [SmartCodders Technologies Pvt LTD](http://smartcodders.com)
+
